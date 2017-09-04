@@ -12,20 +12,22 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <h1>Business Planner, Developer, Traveler, and Philanthropist.</h1>
+     <h1>Developer, Entreprenur, and Philanthropist. Bi-coastal. Restless soul.</h1>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Portfolio Iro</a>
 
   # Icons
   rss: false
-  email_address: amy@amyfarleyseattle.com
+  email_address: "amy@amyfarleyseattle.com"
+
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
   github: "anfarley07"
+  github: "anfarley07/portfolio-iro"
   google_plus:
   instagram: "anfarley07"
   linkedin:  "https://www.linkedin.com/in/amyfarleyseattle/"
