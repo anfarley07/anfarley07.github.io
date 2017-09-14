@@ -2,11 +2,11 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "img/sample_feature_img_2.png"
+feature-img: "img/forrestfalls.jpg"
 ---
 
-Type Theme is a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+I'm a South Carolina native living in Seattle since 2014. My degrees in Historic Preservation and Urban Studies don't do much for me these days, except drive an interest in placemaking, affordable housing, and sustainable development. After 5 years in customer service and customer relations with Amazon's self-publishing platforms, I'm learning software development in order to become a product manager.
 
-Head over to the [theme's documentation](https://rohanchandra.github.io/project/type/) for much more information about Type Theme or to install this theme on your own Jekyll site.
+I'm ever curious and enjoy learning new things, whether it's dev-related, sailing, or a new language. I'm on the board for [Habitat Young Professionals](https://seattlehyp.org). I'm also working with a group of folks in West Virginia to provide more access to technical training, and bring more tech jobs to the state. Both my parents are from WV so it holds a special place in my heart.
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+I look forward to expanding my technical knowledge and skills, and I welcome the guidance of more senior tech folks. I'm also willing to share the story of my transition to tech with anyone who is willing to listen!
