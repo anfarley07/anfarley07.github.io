@@ -8,7 +8,7 @@ theme_settings:
   title: Amy Farley
   avatar: Amy headshot.jpg
   gravatar: # Email MD5 hash
-  description: "A website with blog posts and pages" # used by search engines
+  description: "Amy Farley lives in Seattle. This is her portfolio and blog." # used by search engines
 
   # Header and footer text
   header_text: >
