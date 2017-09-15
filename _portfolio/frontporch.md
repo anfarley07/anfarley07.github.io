@@ -6,7 +6,7 @@ thumbnail-path: "img/frontporchui.jpg"
 short-description: Your neighborhood chat
 
 ---
-Front Porch is a chatroom platform that lets you connect with friends around the world. Growing up in the south, the front porch was where life happened – friends stopped by, neighbors would gather, and it was the best place to catch the latest gossip. Being far from home, I wanted to recreate that feeling – a place where drop in, catch up, and share what’s new.
+Front Porch is a chatroom platform that lets you connect with friends around the world. Growing up in the south, the front porch was where life happened – friends stopped by, neighbors would gather, and it was the best place to catch the latest gossip. Being far from home, I wanted to recreate that feeling – a place where you can drop in, catch up, and share what’s new.
 
 From a coding and design standpoint, this was my first self-directed project. Bloc’s apprenticeship program provided user stories and some basic direction on new concepts, like setting up a Firebase database, but mostly I was left to my own devices. Unfortunately, my own devices aren’t that great at design -  that’s something I hope to work on improving over time! For now, it’s functional, and that’s close enough for government work while I move on to learn even more skills.
 
