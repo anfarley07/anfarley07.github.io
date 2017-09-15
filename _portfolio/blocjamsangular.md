@@ -22,11 +22,11 @@ When learning Angular, I struggled a bit with understanding data bindings. Unlik
 
 <h5> HTML formatting for the album page looks like this for the JS/JQuery version: </h5>
 {:.center}
-![]({{ site.baseurl }}/img/jshtml.jpg)
+![]({{ site.baseurl }}/img/JSHTML.jpg)
 
 <h5> And here's the Angular HTML with data binding: </h5>
 {:.center}
-![]({{ site.baseurl }}/img/angularhtml.jpg)
+![]({{ site.baseurl }}/img/AngularHTML.jpg)
 
 
 Also, rather than having one long code base for each HTML page, Angular breaks the code up into controllers, services, filters and directives so that different sections of code can be used independently. Although this makes for good architecture, the abstraction of thought required to break your code down this way can be tough! It also results in more script files:  in Angular I had nine files while in JavaScript/jQuery I only had five.
